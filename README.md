@@ -7,6 +7,6 @@ I already made a [website](https://brtks.githu.io) using *HTML* and *CSS*... and
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brtks&show_icons=true&theme=angolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brtks&layout=compact&langs_count=7&theme=angolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brtks&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brtks&layout=compact&langs_count=7&theme=algolia"/>
 </div>
